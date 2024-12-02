@@ -57,32 +57,6 @@ A organização dos arquivos no projeto é a seguinte:
         ├── cliente1.jpg
         └── cliente2.jpg
 ```
-
-## Instruções para Execução
-
-Para executar o projeto localmente, siga os passos abaixo:
-
-1. **Clonar o Repositório**: Baixe ou clone o repositório em sua máquina local usando o comando:
-
-   ```
-   git clone https://github.com/seu-usuario/pagina-produto.git
-   ```
-
-2. **Navegar até o Diretório do Projeto**: Use o terminal para entrar na pasta do projeto:
-
-   ```
-   cd pagina-produto
-   ```
-
-3. **Abrir o Arquivo HTML**: Localize o arquivo `index.html` dentro do diretório do projeto e abra-o em um navegador web atualizado (Google Chrome, Mozilla Firefox, etc.).
-
-4. **Interagir com a Página**:
-
-   - Preencha o formulário de captura de leads com informações válidas nos campos de nome, e-mail e telefone.
-   - Após o envio, a página de produto será exibida automaticamente.
-   - Explore as diferentes seções da página, como o carrossel de imagens, galeria, depoimentos e observe o funcionamento do timer de contagem regressiva.
-   - Utilize os links de navegação no header para rolar até as diferentes seções da página.
-
 ## Considerações Técnicas
 
 - **Código Limpo e Semântico**: O projeto foi desenvolvido utilizando boas práticas de codificação, com HTML semântico e CSS organizado. Comentários foram adicionados ao código para facilitar a compreensão e manutenção futura.

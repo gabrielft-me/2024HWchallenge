@@ -67,8 +67,6 @@ A organização dos arquivos no projeto é a seguinte:
 
 - **Responsividade e Design**: O design da página foi concebido para ser responsivo, adaptando-se a diferentes tamanhos de tela, desde dispositivos móveis até desktops. O uso do Bootstrap auxiliou na criação de um layout consistente e atraente.
 
-- **Desempenho**: O projeto foi otimizado para atender aos requisitos mínimos de desempenho estipulados, alcançando pelo menos 70 pontos em dispositivos móveis e 90 pontos em desktops no [Google PageSpeed Insights](https://pagespeed.web.dev).
-
 ## Testes Realizados
 
 - **Validação de Formulários**: Foram realizados testes para garantir que as validações e máscaras estão funcionando corretamente nos campos do formulário de captura de leads.
